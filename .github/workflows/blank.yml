@@ -9,4 +9,4 @@ jobs:
     steps:
       - uses: actions/delete-package-versions@v3
         with:
-          package-name: 'com.nishtha.packagesissue2.maven-project'
+          owner: "nishthagupta"
